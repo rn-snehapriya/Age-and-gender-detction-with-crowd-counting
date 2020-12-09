@@ -6,7 +6,7 @@ This project detects the age and gender of each and every person once at a time 
 
 This project is mainly developed using the concepts of Convolution Neural Network and OpenCV.
 
-The contents in the Prototxt file are:
+The contents in the Prototxt file (link mentioned below) are:
 
 1. opencv_face_detector.pbtxt
 2. opencv_face_detector_uint8.pb
