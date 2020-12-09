@@ -15,7 +15,7 @@ The contents in the Prototxt file (link mentioned below) are:
 5. gender_deploy.prototxt
 6. gender_net.caffemodel
 
-Both the caffe models (age_net and gender_net)are simply define the internal states of the parameters/gradients of those layers.
+Both the caffe models (age_net and gender_net) simply define the internal states of the parameters/gradients of those layers.
 
 ## How to run the project:
 
