@@ -1,4 +1,4 @@
-# Age-and-gender-detction-with-crowd-counting
+# Age-and-gender-detection-with-crowd-counting
 
 **This is project is contributed by: R N SNEHA PRIYA**
 
